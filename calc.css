@@ -1,0 +1,15 @@
+body {
+    width: auto;
+    display: flex;
+    margin: auto;
+    align-content: center;
+    background-color: rgba(20, 11, 117, 0.753);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 20PX;
+    color: aliceblue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
